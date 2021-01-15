@@ -1,0 +1,10 @@
+{
+    "name": "SoongManzaAPI",
+    "description": "API for downloading songs",
+    "author": "Nitesh Sharma",
+    "keywords": [
+        "flask",
+        "python",
+        "music"
+    ]
+}
