@@ -6,7 +6,7 @@ from traceback import print_exc
 from flask_cors import CORS
 
 app = Flask(__name__)
-app.secret_key = os.environ.get("SECRET",'koitogrillfirendbanjao')
+app.secret_key = os.environ.get("SECRET",'SECRETKEY')
 CORS(app)
 
 
